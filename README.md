@@ -1,7 +1,7 @@
 Hi 👋 My name is Hermis Aliendres
 =================================
 
-Web Developer
+🛠️ Web Developer
 -----------------
 
 * 🌍  I'm based in Venezuela
